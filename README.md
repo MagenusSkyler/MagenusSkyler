@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nomanalabdullah195@gmail.com**
 
-- ⚡ Fun fact **She calls me No-man 😉, get it?**
+- ⚡ Fun fact **Only funny people finds me funny 😉 and thats also not because they can relate : )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
