@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and a student.</h3>
 <img align="right" alt="Coder GIF" height=230 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🌱 I’m currently learning **Python & Perl.**
+- 🌱 I’m currently learning **Python & Bash.**
 - 👨‍💻 All of my projects are available at [https://github.com/MagenusSkyler](https://github.com/MagenusSkyler)
 - 📫 How to reach me **nomanalabdullah195@gmail.com**
 - ⚡ Fun fact **Only funny people finds me funny and thats also not because they can relate : ), get it why 😉?**
