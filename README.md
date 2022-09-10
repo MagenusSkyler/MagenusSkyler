@@ -22,8 +22,8 @@
 
 - Next on the list
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="24">](https://www.cprogramming.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="24">](https://www.djangoproject.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="24">](https://www.mysql.com/) | [<img src="https://api.iconify.design/logos-perl.svg" alt="Perl" width="24">](https://www.perl.org/)
-|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="24">](https://www.cprogramming.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="24">](https://www.djangoproject.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="24">](https://www.mysql.com/) | [<img src="https://api.iconify.design/logos-perl.svg" alt="Perl" width="24">](https://www.perl.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/121px-Ruby_logo.svg.png" alt="Ruby" width="24">](https://www.ruby-lang.org/en/) 
+|---|---|---|---|---|---|
 
 <p><img align="right" width=370 src="https://github-readme-stats.vercel.app/api/top-langs?username=magenusskyler&show_icons=true&locale=en&layout=compact" alt="magenusskyler" /></p>
 
