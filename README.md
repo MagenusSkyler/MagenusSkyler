@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noman</h1>
-<h3 align="center">A passionate frontend developer and a student.</h3>
+<h1 align="center">Hi 👋, I'm Skyler</h1>
 <img align="right" alt="Coder GIF" height=230 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 - 🌱 I’m currently learning **Python & Bash.**
