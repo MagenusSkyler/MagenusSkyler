@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Skyler</h1>
 <img align="right" alt="Coder GIF" height=230 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🌱 I’m currently learning **Python & Bash.**
-- 👨‍💻 All of my projects are available at [https://github.com/MagenusSkyler](https://github.com/MagenusSkyler)
-- 📫 How to reach me **nomanalabdullah195@gmail.com**
-- ⚡ Fun fact **Only funny people finds me funny and thats also not because they can relate : ), get it why 😉?**
-
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
-<a href="https://twitter.com/noma_n3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noma_n3" height="30" width="40" /></a>
-<a href="https://instagram.com/noma_n3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noma_n3" height="30" width="40" /></a>
-</p>
-
 ### Languages and Tools 🌐
 
 - Know/Learning
